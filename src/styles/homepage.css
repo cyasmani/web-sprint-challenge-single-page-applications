@@ -1,0 +1,30 @@
+.Container {
+    margin:3rem;
+}
+
+.pizzaplanetname{
+    width:5rem;
+}
+
+h1{
+    text-align: center;
+}
+
+.pizzahutimage{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
+
+p{
+    text-align: center;
+}
+
+.App{
+    background-color:whitesmoke
+}
+
+.Navitem{
+    margin:1rem;
+}
